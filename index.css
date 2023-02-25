@@ -1,0 +1,58 @@
+h2{
+    color: rgb(204, 82, 0);
+    text-align: center;
+    font-family:'Sitka Text Semibold';
+    padding-top: 50px;
+    font-size: 50px;
+}
+.secondp{
+    background-color: gold;
+}
+.col{
+    padding: 25px;
+    padding-top: 10px;
+    padding-left: 4cm;
+    padding-right: 4cm;
+}
+.thirdp{
+    background-color: rgb(192 247 73);
+}
+h1{
+    color:rgb(248, 9, 129);
+    text-align: center;
+}
+h3{
+    color: rgb(255 106 0);
+    text-align: center;
+}
+.fourthp{
+    background-color: rgb(117, 15, 168);
+    color:white;
+}
+#purplepart{
+    color: aqua;
+    border-radius: 25px;
+    border: orchid;
+    border-style: dotted;
+    padding: 20px;
+    width: 50%; 
+    border-width: 10px;
+
+}
+ol{
+    list-style:conic-gradient(red, yellow, green, blue, black);
+    float:initial;  
+}
+li{
+    font-size: 30px;
+}
+footer{
+    background-color:rgb(173, 9, 113) ;
+    color: mintcream;
+    font-size: 25px;
+    text-shadow:3px pink;
+    text-indent: inherit;
+    text-align: center;
+}
+
+

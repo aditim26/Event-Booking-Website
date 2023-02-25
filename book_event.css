@@ -1,0 +1,31 @@
+.first
+{
+  color: aliceblue;
+  padding-top: 23px;
+}
+img{
+  height: 7cm;
+  width: 8cm;
+}
+h1{
+  text-align: center;
+}
+hr{
+  height: 2cm;
+  border-width: 2cm;
+  color: aliceblue;
+  background-color: aliceblue;
+}
+label,p{
+  font-size: 30px;
+  font-family: monospace;
+  font-weight: bold;
+}
+.button{
+  background-color: rgb(178, 248, 248);
+  font-size: 30px;
+  font-family: monospace;
+  font-weight: bold;
+  color: rgb(68, 4, 68);
+  border-radius: 25px;
+}

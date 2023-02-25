@@ -1,0 +1,42 @@
+body{
+    background-color:whitesmoke; 
+    margin-top: 60px;
+    margin-bottom:30px;
+    margin-right:50px;
+    margin-left: 50px;
+}
+p{
+    border-style: solid;
+    box-shadow: 1px 1px 2px hotpink;
+    padding: 30px;
+    border-radius: 50px;
+    border-color: rgb(28, 10, 189);
+    width: 50%;
+    float: right;
+    background: rgb(247, 103, 7);
+    color: white;
+}
+h1{
+    color:rgb(140 20 201);
+    font-family:Monotype Corsiva;
+    font-size: 80px;
+    text-align:center;
+    background-color:#ffe707;
+}
+img{
+    width: 18cm;
+    height: 9cm;
+    border-radius: 25px;
+}
+a:visited {
+    color: indigo;
+}
+a:hover{
+    color:maroon
+}
+a:active{
+    color:orange
+}
+a:link{
+    color:indigo
+}

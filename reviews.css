@@ -1,0 +1,42 @@
+.txtinput{
+    align-content: center;
+    color: brown;
+    font-weight: 800;
+    font-family: Monotype Corsiva;
+    font-size: 30px;
+    height: 5cm;
+    width: 20cm;
+    text-align: center;
+    }
+.button{
+    padding: 10px;
+    border-radius: 25px;
+    background-color: rgb(243, 217, 232);
+    color: rgb(252, 7, 7);
+    font-weight: 900;
+    border-color: rgb(255, 102, 0);
+    font-size: 25px;
+}
+h1{
+    font-family:fantasy; 
+    color: rgb(63, 30, 107);
+    text-align: center;
+    font-weight: 900;
+}
+.bx1{
+    color: rgb(88, 4, 53);
+    height: 10;
+    padding-left: 70px;
+    padding-right: 70px;
+    text-align: justify;
+}
+.bx2{
+    color: rgb(88, 4, 53);
+    height: 10;
+    padding-left: 70px;
+    padding-right: 70px;
+    text-align: justify;
+}
+h2{
+    color: rgb(241, 129, 0);
+}
